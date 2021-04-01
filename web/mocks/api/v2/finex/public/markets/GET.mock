@@ -29,7 +29,7 @@ Access-Control-Allow-Credentials: true
     "name":"ETH/BTC",
     "base_unit":"eth",
     "quote_unit":"btc",
-    "state":"enabled",
+    "state":"hidden",
     "amount_precision":5,
     "price_precision":7,
     "min_price":"0.0000001",
